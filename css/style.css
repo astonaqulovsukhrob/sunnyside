@@ -329,4 +329,9 @@ ul li {
   .img1, .img2, .img3, .img4 {
     width: 50%;
   }
+  
+  .main-info {
+    margin-top: -193px;
+    padding: 0 2rem;
+   }
 }
